@@ -12,8 +12,8 @@ Discord | [Server](https://discord.gg/sWTvuZE) | https://discordapp.com
 ### Repository Tasks:
 - [x] Add **license** file to project repository.
 - [x] Add **readme** markdown to project repository.
-- [ ] Create **directory** for upcoming competitions.
-- [ ] Upload **forms** for each distinct competition.
+- [x] Create **directory** for upcoming competitions.
+- [x] Upload **forms** for each distinct competition.
 
 ### Terminal Commands:
 ``` text
